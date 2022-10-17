@@ -8,9 +8,9 @@ This project  with a frontend built in React & Redux and a backend built in Djan
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-shoeden-kristian.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://shoeden-1.kristiankeshel.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://backend-shoeden-kristian.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://shoeden.kristiankeshel.repl.co/) here!!
 
 ## Tech used
 
